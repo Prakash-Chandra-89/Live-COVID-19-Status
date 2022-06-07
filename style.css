@@ -1,0 +1,45 @@
+body{
+     background-color: #D89216; 
+}
+
+/* .fixTableHead {
+    overflow-y: auto;
+    height: 110px;
+  }
+  .fixTableHead thead th {
+    position: sticky;
+    top: 0;
+  }
+  table {
+    border-collapse: collapse !important;        
+    width: 100% !important;
+   } code for fixed table header */
+  
+  h1{
+      text-align: center;
+      margin-top: 50px;
+      margin-bottom: 25px;
+      background-color: #2C061F;
+      color: white;
+      border-radius: 5px;
+  }
+  p{
+      color: white;
+      font-size: 18px ;
+  }
+  .who{
+      float: left !important;
+      
+  }
+  .covid-logo{
+      float:right !important ;
+     
+  }
+  input{
+      background-color: beige !important;
+      border-radius: 5px !important;
+      margin-bottom: 20px !important;
+  }
+  select{
+    background-color: beige !important;
+  }
